@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/jwmzn174xghjk7x4n721"
+#EXTM3U
 #EXTINF:-1 tvg-chno="1" tvg-id="tv1.my" tvg-country="MY" tvg-language="Malay" tvg-name="TV1" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="mifnTv" tvg-shift="+8",TV1
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142504.m3u8
 

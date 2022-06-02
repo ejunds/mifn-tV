@@ -1,0 +1,43 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/jwmzn174xghjk7x4n721"
+#EXTINF:-1 tvg-chno="1" tvg-id="tv1.my" tvg-name="TV1" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="mifnTv" tvg-shift="+8",TV1
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142504.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="tv2.my" tvg-name="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="mifnTv" tvg-shift="+8",TV2
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142505.m3u8
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1 (1080P)" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Logo-TV1-May21-JPG.jpg" group-title="mifnTv" tvg-shift="+8",TV1 (1080P)
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494144268.m3u8
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="Tv2 (1080p)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="mifnTv" tvg-shift="+8",Tv2 (1080p)
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494144269.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="mifnTv" tvg-shift="+8",TV3
+https://m3u-editor.com:443/live/jaewwfdv/i9u7yfqq/549706163.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="tv3.my" tvg-name="TV3 HD" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="mifnTv" tvg-shift="+8",TV3 HD
+https://m3u-editor.com:443/live/jaewwfdv/i9u7yfqq/549706164.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="1295" tvg-name="TV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814" group-title="mifnTv" tvg-shift="+8",TV6
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+#EXTINF:-1 tvg-chno="7" tvg-id="NTV7" tvg-name="NTV7/DIDIKTV" tvg-logo="https://i.imgur.com/uKN1okT.png" group-title="mifnTv" tvg-shift="+8",NTV7/DIDIKTV
+https://m3u-editor.com:443/live/jaewwfdv/i9u7yfqq/549706168.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="mifnTv" tvg-shift="+8",TV9
+https://m3u-editor.com:443/live/jaewwfdv/i9u7yfqq/549706170.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="105" tvg-name="DRAMA SANGAT" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="mifnTv" tvg-shift="+8",DRAMA SANGAT
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142509.m3u8
+#EXTINF:-1 tvg-id="105" tvg-name="Drama sangat" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="mifnTv" tvg-shift="+8",Drama sangat
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142524.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-id="(no tvg-id)" tvg-name="IKLIM" tvg-logo="https://m3u-editor.com/storage/channel-logos/378196b0-5708-11ec-bbed-bf3f2aea144b/2537521/444386075.jpg" group-title="mifnTv" tvg-shift="+8",IKLIM
+https://m3u-editor.com:443/live/jaewwfdv/i9u7yfqq/549706173.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="123" tvg-name="Awesome TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="mifnTv" tvg-shift="+8",Awesome TV
+https://m3u-editor.com:443/live/jaewwfdv/i9u7yfqq/549706165.m3u8
+#EXTINF:-1 tvg-id="disney.xd.gb" tvg-name="DisneyXd" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK036DisneyXDUK.png" group-title="mifnTv" tvg-shift="+8",DisneyXd
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494156086.m3u8
+#EXTINF:-1 tvg-id="617" tvg-name="Nick jr" tvg-logo="https://pbs.twimg.com/profile_images/1478805340212838413/YAJM_fei_400x400.jpg" group-title="mifnTv" tvg-shift="+8",Nick jr
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/563528649.m3u8
+#EXTINF:-1 tvg-id="616" tvg-name="NICKELODEON hd" tvg-logo="https://i.ytimg.com/vi/OYkwp6AimxA/maxresdefault.jpg" group-title="mifnTv" tvg-shift="+8",NICKELODEON hd
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/563528650.m3u8
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="AstrokCeria" tvg-logo="https://m3u-editor.com/storage/channel-logos/6b8bfc70-f676-11eb-969f-a16188069736/1944541/350014641.png" group-title="mifnTv" tvg-shift="+8",AstrokCeria
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142672.m3u8
+#EXTINF:-1 tvg-id="CHN" tvg-name="Dreamwork HD" tvg-logo="https://itsmiyagi.site:443/images/a2eafa3c80163c811a9e3db8aa3dcea2.png" group-title="mifnTv" tvg-shift="+8",Dreamwork HD
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/563528655.m3u8
+#EXTINF:-1 tvg-id="boomerang.gb" tvg-name="Boomerang" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK013Boomerang.png" group-title="mifnTv" tvg-shift="+8",Boomerang
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494156080.m3u8
+#EXTINF:-1 tvg-id="615" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cartoonnetwork.png" group-title="mifnTv" tvg-shift="+8",Cartoon Network
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/563528648.m3u8
+#EXTINF:-1 tvg-id="cartoon.network.gb" tvg-name="CartoonNetwork" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK019Cartoonnetwork.png" group-title="mifnTv" tvg-shift="+8",CartoonNetwork
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494156081.m3u8

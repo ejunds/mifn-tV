@@ -1,9 +1,12 @@
 # selamat datang ke laman ejunds 
 - "https://ejunds.github.io"
 ## mifn-tV
-- `saluran iptv laman ini dibina oleh ejunds/mifnTv.`
 - `saluran iptv ini adalah percuma`
-### ditaja oleh MIFN TECHNOLOGY
+- `saluran halaman iptv ini dibina oleh ejunds/mifnTv.`
+   > ### membina halaman melalui github.com 
+
+  > ditaja oleh ;
+* > # MIFN TECHNOLOGY
 - "https://facebook.com/mifntechnology"
 - `pendawaian dan pemasangan sistem keselamatan dan elektrik.(termasuk yg berkaitan)`
 ## cara-guna

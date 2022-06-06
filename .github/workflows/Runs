@@ -1,0 +1,4 @@
+git branch -m mifnTv mifn-tV
+git fetch origin
+git branch -u origin/mifn-tV mifn-tV
+git remote set-head origin -a https://github.com/ejunds/mifn-tV.git
